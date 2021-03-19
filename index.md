@@ -4,6 +4,8 @@ layout: default
 
 {% include 01-name.md %}
 # Rakesh Ranjan
+
+add-lists-emphasis
 <br>
 
 {% include 02-image.md %}
@@ -13,6 +15,7 @@ layout: default
 
 {% include 03-links.md %}
 https://kki991.github.io/
+
 <br>
 
 {% include 04-lists.md %}
@@ -20,5 +23,6 @@ Electronis gadgets
 Motor Bikes
 Books
 <br>
+
 
 {% include 05-emphasis.md %}
