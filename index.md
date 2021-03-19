@@ -4,6 +4,7 @@ layout: default
 
 {% include 01-name.md %}
 # Rakesh Ranjan
+
 <br>
 
 {% include 02-image.md %}
@@ -13,3 +14,4 @@ layout: default
 
 {% include 03-links.md %}
 [MyGitHubWebsiteLink](https://kki991.github.io/)
+
