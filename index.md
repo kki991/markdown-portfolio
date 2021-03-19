@@ -15,3 +15,9 @@ layout: default
 {% include 03-links.md %}
 [MyGitHubWebsiteLink](https://kki991.github.io/)
 
+<br>
+
+{% include 04-lists.md %}
+Electronics gagdets
+Motor bikes
+Books
